@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BelajarFirebase</string>
+    <string name="nama">Nama</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="show">show</string>
+    <string name="nim">NIM</string>
+    <string name="data">Data</string>
+</resources>

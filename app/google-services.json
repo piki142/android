@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812034407597",
+    "project_id": "belajarfirebase-c7dae",
+    "storage_bucket": "belajarfirebase-c7dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812034407597:android:e8f14d3aef23df0e7f1a24",
+        "android_client_info": {
+          "package_name": "com.example.belajarsqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812034407597-92pa75kfg55phh1qiod5i71eoppj0ghk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3k0Y_61q9ErWm2SCMXlFObrNf8LMDYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812034407597-92pa75kfg55phh1qiod5i71eoppj0ghk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
